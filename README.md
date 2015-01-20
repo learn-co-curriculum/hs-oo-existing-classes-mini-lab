@@ -8,7 +8,7 @@ type: lab, mini-lab
 # Re-Opening Existing Classes Mini-Lab
 
 Recall from our lecture that everything in Ruby is an object, and every object has to come from a class. For example, an integer (like `5`) comes from the `Integer` class, and we can create new integers like so:
-```RUBY
+```ruby
 x = Integer.new(3)
 ```
 
