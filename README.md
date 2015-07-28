@@ -1,9 +1,4 @@
----
-tags: oo, classes
-languages: ruby
-level: 2
-type: lab, mini-lab
----
+
 
 # Re-Opening Existing Classes Mini-Lab
 
