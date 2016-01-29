@@ -35,4 +35,4 @@ Here are a few additions to existing classes that you should try:
 
 + Add a method '.third_item' to the `Array` class that returns the third item in an array. If there is no third item, it should return the string "Womp, womp."
 
-<a href='https://learn.co/lessons/hs-oo-existing-classes-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-existing-classes-mini-lab' title='Re-Opening Existing Classes Mini-Lab'>Re-Opening Existing Classes Mini-Lab</a> on Learn.co and start learning to code for free.</p>
